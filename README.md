@@ -1,0 +1,2 @@
+# tiktok-share-prediction-sentiment-analysis-ml
+This project analyzes how emotional expressions in TikTok video comments affect virality, measured by share count. Using regression &amp; decision tree models, I found that emotionally charged content—especially disapproval—boosts shares, while admiration shows negative associations, highlighting how sentiment drives sharing &amp; informs content strategy.
